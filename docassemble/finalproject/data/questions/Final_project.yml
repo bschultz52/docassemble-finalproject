@@ -14,7 +14,7 @@ code: |
 code: |
   dayleader_names = ["John Doe", "Jocelyn Heewy", "Bob Barker", "Chloe Maggots"]
   dayleader_emails = ["law589.group1@gmail.com", "law589.group1@gmail.com", "law589.group1@gmail.com", "law589.group1@gmail.com"]
-  caseworker_emails = ["patron@ualberta.ca", "brgauche@ualberta.ca", "chase3@ualberta.ca", "klug@ualberta.ca", "bgschultz@ualberta.ca"]
+  caseworker_emails = ["patron@ualberta.ca", "brgauche@ualberta.ca", "chase3@ualberta.ca", "klug@ualberta.ca", "bgschult@ualberta.ca"]
   
   for i in range(len(dayleader_names)):
     if dayleader_name == dayleader_names[i]:
